@@ -19,6 +19,6 @@ public class Identifier {
 * we cant use reserved keyword as identifier.
 * but we can use predefined class name and interface as identifier.
 * but it is not recommended to use.
-* name should be lengthy.
+* name should not be lengthy.
 
- */
+*/
