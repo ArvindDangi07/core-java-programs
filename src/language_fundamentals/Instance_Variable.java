@@ -20,9 +20,10 @@ public class Instance_Variable {
 * it declares inside the class directly not in method , constructor.
 * value of instance variable is different for each object vary from object to object.
 * stored in Heap memory area.
-* we cant access from static area directly but through object referrance.
+* we cant access from static area directly but through object reference.
 * we can access directly from instance area.
-*
+* not need to initialize jvm provide default values.
+* Instance variable created at object creation and destroy at object destruction.
 
 *
 * */
